@@ -7,7 +7,7 @@ p {
   text-align: center;
 }
 
-img {
+.croissant-photo {
   max-width: 100%;
   border-radius: 10px;
   display: block;
